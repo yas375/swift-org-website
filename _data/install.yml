@@ -1,0 +1,12 @@
+latest:
+  label: 5.7
+  distributions:
+    xcode:
+      label: Xcode 14
+      url: https://itunes.apple.com/app/xcode/id497799835
+    macos:
+      label: 5.7
+      url: https://download.swift.org/swift-5.7-release/xcode/swift-5.7-RELEASE/swift-5.7-RELEASE-osx.pkg
+    windows10:
+      label: 5.7
+      url: https://download.swift.org/swift-5.7-release/windows10/swift-5.7-RELEASE/swift-5.7-RELEASE-windows10.exe

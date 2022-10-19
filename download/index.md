@@ -532,10 +532,3 @@ but they have not gone through the full testing that is performed for official r
 
 
 Swift is covered by the Swift License at [swift.org/LICENSE.txt](/LICENSE.txt).
-
-## Using Downloads
-
-{% include_relative _apple-platforms.md %}
-{% include_relative _linux.md %}
-{% include_relative _windows.md %}
-{% include_relative _docker.md %}

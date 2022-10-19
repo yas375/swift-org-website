@@ -13,14 +13,14 @@
     - title: Getting Started
       url: /getting-started/
       sections:
-        - title: Installing Swift
-          name: installing-swift
         - title: Using the REPL
           name: using-the-repl
         - title: Using the Package Manager
           name: using-the-package-manager
         - title: Using the LLDB Debugger
           name: using-the-lldb-debugger
+    - title: Install
+      url: /install/
     - title: Download
       url: /download/
       sections:

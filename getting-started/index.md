@@ -11,7 +11,6 @@ most important concepts and features of the language.
 
 [TSPL]: https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1
 
-{% include_relative _installing.md %}
 {% include_relative _repl.md %}
 {% comment %}{% include_relative _swiftc.md %}{% endcomment %}
 {% include_relative _build-system.md %}
