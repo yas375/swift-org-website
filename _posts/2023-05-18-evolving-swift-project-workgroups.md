@@ -77,7 +77,7 @@ Notably, we will be creating a new **Ecosystem Steering Group.**
 
 Successful programming languages have an extensive supporting system focused on developer experience and productivity through tooling, documentation, and other development resources.
 
-The new Ecosystem Steering Group will focus on growing that support structure for Swift.  It will support the evolution of developer and documentation tooling, the Swift.org website, the package manager, and the package ecosystem.  The steering group will also support the work to bring Swift to additional platforms and the tooling to make creating such ports easier.  Finally, the group will support the growth of Swift in standard or industry-leading developer productivity tooling including cloud-based IDEs and continuous integration systems.
+The new Ecosystem Steering Group will focus on growing that support structure for Swift.  It will support the evolution of developer and documentation tooling, the package manager, and the package ecosystem.  The steering group will also support the work to bring Swift to additional platforms and the tooling to make creating such ports easier.  Finally, the group will support the growth of Swift in standard or industry-leading developer productivity tooling including cloud-based IDEs and continuous integration systems.
 
 A follow-up announcement will provide additional details on the charter of the Ecosystem Steering Group, its scope and responsibilities. With its charter formalized, the new steering group will form an additional set of workgroups to drive specific initiatives within its charter.  The Core Team will choose the inaugural members of the Ecosystem Steering Group.
 
