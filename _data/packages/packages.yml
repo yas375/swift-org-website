@@ -497,7 +497,7 @@ categories:
       or [SwiftData](https://developer.apple.com/xcode/swiftdata/), look no further
       than this list of popular database packages.
     more:
-      title: More database packages
+      title: More database access packages
       url: https://swiftpackageindex.com/keywords/database
     packages:
       - name: GRDB
